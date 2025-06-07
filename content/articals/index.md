@@ -50,8 +50,8 @@ cloum 1     | colum 2     |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:20px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:50px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:50px 20px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:5px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
